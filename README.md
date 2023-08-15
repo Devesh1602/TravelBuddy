@@ -1,6 +1,6 @@
 # Travel Buddy - Your Ultimate Trip Planner
 
-![Travel Buddy Logo]()
+![Travel Buddy Logo](https://github.com/Devesh1602/TravelBuddy/assets/76179606/1a4e94e4-7c25-40c0-b01a-da484f5c9858)
 
 ## Introduction
 
